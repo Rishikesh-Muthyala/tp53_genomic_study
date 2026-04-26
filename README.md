@@ -1,6 +1,6 @@
  # TP53 Genomic Mutation Analysis
 
-## 🔬 Project Overview
+## Project Overview
 
 This project analyzes mutation patterns in the TP53 gene using a structured genomic dataset.
 TP53 is a critical tumor suppressor gene, and its mutations are widely studied in cancer genomics.
@@ -14,7 +14,7 @@ The goal of this project is to:
 
 ---
 
-## 📊 Dataset
+##  Dataset
 
 * Source: Google Sheets dataset (converted to CSV)
 * Format: Mutation Annotation Format (MAF-like)
@@ -28,7 +28,7 @@ The goal of this project is to:
 
 ---
 
-## ⚙️ Workflow
+## Workflow
 
 ### 1. Data Processing (`process.py`)
 
@@ -46,7 +46,7 @@ The goal of this project is to:
 
 ---
 
-## 📈 Results
+##  Results
 
 ### Mutation Frequency
 
@@ -68,7 +68,7 @@ The goal of this project is to:
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 tp53_genomic_study/
@@ -86,7 +86,7 @@ tp53_genomic_study/
 
 ---
 
-## ▶️ How to Run
+##  How to Run
 
 ```bash
 cd script
@@ -96,7 +96,7 @@ python3 analysis.py
 
 ---
 
-## 🛠️ Tools & Technologies
+##  Tools & Technologies
 
 * Python
 * pandas
@@ -104,30 +104,5 @@ python3 analysis.py
 * Linux (WSL)
 * Git & GitHub
 
----
 
-## 💡 Key Learnings
-
-* Handling real-world genomic datasets
-* Debugging file paths and data pipelines
-* Data cleaning and preprocessing
-* Basic genomic data analysis
-* Automating workflows using Python
-
----
-
-## 🚀 Future Improvements
-
-* Add clinical significance analysis
-* Compare multiple genes (multi-gene study)
-* Use real public datasets (e.g., TCGA)
-* Perform statistical analysis on mutation patterns
-* Build interactive visualizations
-
----
-
-## 👨‍🔬 Author
-
-Rishikesh Muthyala
-Aspiring Bioinformatician | Biotechnology Student
 
