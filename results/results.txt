@@ -1,0 +1,10 @@
+TP53 Mutation Frequency: 100.00%
+
+Mutation Type Distribution:
+Missense_Mutation    201
+Frame_Shift_Del       49
+Nonsense_Mutation     48
+Splice_Site           24
+Frame_Shift_Ins       15
+In_Frame_Del           6
+Splice_Region          1
